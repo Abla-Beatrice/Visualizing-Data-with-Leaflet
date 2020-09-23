@@ -1,9 +1,9 @@
 url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 function displayMap(inputData, inputData2) {
-    // Puts the place and time in a popup for the feature
+    // Place and time in a popup for the feature
     function onEachFeature(feature, layer) {
-        // add a popup to each marker
+        // popup to each marker
         layer.bindPopup("<h3>" + feature.properties.place +
           "</h3><hr><p>" + new Date(feature.properties.time) + 
           "</p><br><p>Magnitude:" + feature.properties.mag + "</p>");
