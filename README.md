@@ -31,7 +31,9 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ![5-Advanced](Images/5-Advanced.png)
 
-I plot a second data set on my map to illustrate the relationship between tectonic plates and seismic activity. I pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
+Ploting a second data set on my map to illustrate the relationship between tectonic plates and seismic activity. 
+Pulling in a second data set and visualize it along side your original set of data. 
+Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
 * Ploting a second data set on my map.
 
