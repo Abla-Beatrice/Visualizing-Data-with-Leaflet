@@ -1,6 +1,6 @@
-# Visualizing Data with Leaflet
+## Visualizing Data with Leaflet
 
-## Topic
+### Analysis
 
 ![1-Logo](Images/1-Logo.png)
 
@@ -27,16 +27,16 @@ The USGS is interested in building a new set of tools that will allow them visua
    
 - - -
 
-### Level 2: More Data (Optional)
+### Level 2: More Data
 
 ![5-Advanced](Images/5-Advanced.png)
 
 I plot a second data set on my map to illustrate the relationship between tectonic plates and seismic activity. I pull in a second data set and visualize it along side your original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
-* Plot a second data set on our map.
+* Ploting a second data set on my map.
 
-* Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
+* Adding a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
-* Add layer controls to our map.
+* Adding layer controls to our map.
 
 - - -
